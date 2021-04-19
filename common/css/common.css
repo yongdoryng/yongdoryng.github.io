@@ -19,6 +19,10 @@ time, mark, audio, video {
 	font-size: 13px;
 	font: inherit;
 	vertical-align: baseline;
+	font-family: 'Nanum Gothic' , 'Noto Sans KR' , sans-serif;
+	color:#404040;
+}
+
 /* legend , label , h2 , h3 , h4 , h5 , h6{width:0px; height:0px; font-size:0px; position:absolute; left:-9999px; top:-9999px;} */
 .skip{width:0px; height:0px; font-size:0px; position:absolute; left:-9999px; top:-9999px;}
 a{text-decoration:none;}
